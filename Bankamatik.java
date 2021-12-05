@@ -7,7 +7,7 @@ public class Bankamatik {
 	public static void main(String[] args) {
 		System.out.println("***ATM'ye Hosgeldiniz***");
 		Scanner scan=new Scanner(System.in);
-		String islem="1.islem: BAKIYE \n2.islem: PARA YATIRMA \n3.islem: PARA CAKME \n4.islem: CIKIS";
+		String islem="1.islem: BAKIYE \n2.islem: PARA CEKME \n3.islem: PARA YATIRMA \n4.islem: CIKIS";
 		
 		System.out.println(islem);
 		System.out.println("Yapmak istediginiz islemi seciniz;");
